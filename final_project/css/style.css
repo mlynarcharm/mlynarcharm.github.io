@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Gudea:400,400i,700|Parisienne&display=swap');
+
+h1 {
+  font-family: 'Gudea', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Parisienne', cursive;
+  font-weight: lighter;
+  text-align: center;
+}
+
+h3 {
+  color: gold;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Gudea', sans-serif;
+}
+
+img {
+  border: 0 dotted black;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#bottom_nav li {
+  display: inline-block;
+  width: 60px 60px 60px
+}
+
+#bottom_nav {
+  background-color: gold;
+  padding: 10px;
+  font-weight: bold;
+}
